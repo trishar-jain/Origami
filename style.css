@@ -1,0 +1,83 @@
+.header{
+    background-color :rgb(29, 116, 90);
+    display : flex;
+    justify-content: space-between;
+}
+
+.panda{
+    display : flex;
+    color:turquoise
+}
+
+.panda-text{
+    display: flex;
+    justify-content: space-between;
+    color:turquoise
+}
+
+.chameleon{
+    display : flex;
+    color:turquoise
+}
+
+.chameleon-text{
+    display: flex;
+    justify-content: space-between;
+    color:turquoise
+}
+
+.cicada{
+    display : flex;
+    color:turquoise
+}
+
+.cicada-text{
+    display: flex;
+    justify-content: space-between;
+    color:turquoise
+}
+
+.pigeon{
+    display : flex;
+    color:turquoise
+}
+
+.pigeon-text{
+    display: flex;
+    justify-content: space-between;
+    color:turquoise
+}
+
+.teddy{
+    display : flex;
+    color:turquoise
+}
+
+.teddy-text{
+    display: flex;
+    justify-content: space-between;
+    color:turquoise
+}
+
+.camel{
+    display : flex;
+    color:turquoise
+}
+
+.camel-text{
+    display: flex;
+    justify-content: space-between;
+    color:turquoise
+}
+
+    h1{
+        text-align: center;
+        margin-left: 30px;
+        color : turquoise
+}
+
+body{
+    background: rgb(3, 131, 190);
+    color: whitesmoke;
+}
+
